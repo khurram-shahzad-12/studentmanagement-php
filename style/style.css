@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.backgroundsec{
+    background: url('../assets/images/background.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.loginpagecontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100VW;
+    height: 100VH;
+
+}
